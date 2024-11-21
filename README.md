@@ -5,8 +5,8 @@ Code and Benchmark Dataset(BANKING-Explain)
 NOTICE: We only upload the sample verison, and will upload full version after paper accept. 
 You may use our dataset in [here](https://github.com/yuanxiaoheben/DENet/tree/main/BANKING-Explain)
 ## DENet
-Code 
+Code in [DENet Base](https://github.com/yuanxiaoheben/DENet/tree/main/denet_base), we are still working on it
 
 ## DENet + Fewshot and DE+KGE 
-code
+Code in [DENet Drive](https://github.com/yuanxiaoheben/DENet/tree/main/denet_base), we are still working on it
 
