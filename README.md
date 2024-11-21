@@ -8,5 +8,5 @@ You may use our dataset in [here](https://github.com/yuanxiaoheben/DENet/tree/ma
 Code in [DENet Base](https://github.com/yuanxiaoheben/DENet/tree/main/denet_base), we are still working on it
 
 ## DENet + Fewshot and DE+KGE 
-Code in [DENet Drive](https://github.com/yuanxiaoheben/DENet/tree/main/denet_base), we are still working on it
+Code in [DENet Drive](https://github.com/yuanxiaoheben/DENet/tree/main/denet_drive), we are still working on it
 
