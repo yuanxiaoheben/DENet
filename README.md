@@ -1,4 +1,4 @@
-# DENet
+# Towards Interpretable User Intent Analysis with Deficient Evidence Fusion for Pseudo-Modalities(ICMR 2025)
 Code and Benchmark Dataset(BANKING-Explain)
 
 ## BANKING-Explain
